@@ -37,6 +37,8 @@ To accomplish the second objective, I used a countif statement such as " =COUNTI
 count the successful, failed and canceled kickstarter campaign counts from the main data set.  
 I then calculated percentage of successful, failed and canceled plays to develop an additional visual based in excel charts.
 
+https://github.com/JohnJohnson913/Kickstarter-Analysis/blob/0d6a94d71c91c0495fcbdb1ecbcc23cfa3e366d6/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered
 
 Though the exercise was accomplished successfully, it would be mindful to pay close attention to the formulas, and ensure that all items are spelled correctly and that accurate syntax is used.
