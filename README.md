@@ -31,6 +31,8 @@ I then calculated percentage of successful, failed and canceled plays to develop
 To accomplish the first objective I used a pivot table isolating the releveant information, and then using a pivot chart
 to best visualize when the new play should launch.
 
+https://github.com/JohnJohnson913/Kickstarter-Analysis/blob/fbab76ea27bc56aa3d588a15f8ab431b6a53e18c/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 To accomplish the second objective, I used a countif statement such as " =COUNTIFS(Kickstarter_Challenge!D:D,"<1000",Kickstarter_Challenge!F:F,"failed",Kickstarter_Challenge!R:R,"plays") " function to 
